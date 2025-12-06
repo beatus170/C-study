@@ -24,7 +24,7 @@ int main() {
 
 	if( a == 0 ) {
 		break;
-	}else continue;
+	} else continue;
 
 	}	
 
