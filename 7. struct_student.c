@@ -8,7 +8,7 @@ struct Student {
 
 int main() {
     
-    struct Student s1 = {"Yeojin", 6};
+    struct Student s1 = {"Alice", 6};
 
     
     printf("name: %s\n", s1.name);
