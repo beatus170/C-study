@@ -5,8 +5,10 @@ int main(){
   int energe = 100;                                                                                            
   int *ptr = &energe;    
                                                                                              
-  printf("수정전값 : %d\n", energe);    
-                                                                      *ptr = 50;  
+  printf("수정전값 : %d\n", energe);  
+
+  *ptr = 50;
+                                                                        
                                                                                                                     
   printf("수정후 값 : %d\n", energe);        
   printf("수정후 값 : %d\n",* ptr);  
