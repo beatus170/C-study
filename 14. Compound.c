@@ -1,7 +1,6 @@
 /*
  * Program: Compound Interest Calculator
  * Description: Calculates the future value of an investment using compound interest.
- * Author: Gemini
  */
 
 #include <stdio.h>
