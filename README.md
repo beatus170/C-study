@@ -1,6 +1,8 @@
 # C-study
-C언어 기초 학습 및 예제 코드를 저장하는 공간입니다.  
-This repository contains C programming practices and examples for beginners.
+C언어 기초 학습 및 예제 코드를 저장하는 공간입니다. 
+해당 예제들은 구글 Gemini로 작성되었습니다. 
+This repository contains C programming practices and examples for beginners made by Google Genmini.
+
 
 ## 💻 개발 환경 (Environment)
 * **OS**: Windows + WSL 2 (Ubuntu)
